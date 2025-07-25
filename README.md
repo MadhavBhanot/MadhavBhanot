@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/3a/70/69/3a7069e29a990f1ce8b8f365d140e698.gif" alt="Sanatana Dharma" width="200"/>
+  <img src="https://i.pinimg.com/originals/d7/ad/6a/d7ad6a4a5d099b244d289e67272845d4.gif" alt="Sacred Geometry" width="250"/>
 
   <h1>
     <a href="https://github.com/MadhavBhanot">
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1132.gif" width="100%" height="4px" />
+  <img src="https://media.tenor.com/L4TS9gWdazMAAAAC/gold-line.gif" width="100%" />
 </p>
 
 ### 🛠️ My Tech Stack
@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1132.gif" width="100%" height="4px" />
+  <img src="https://media.tenor.com/L4TS9gWdazMAAAAC/gold-line.gif" width="100%" />
 </p>
 
 <div align="center">
