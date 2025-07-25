@@ -1,136 +1,116 @@
-# 侍 Madhav Bhanot | 
-
+#  Madhav Bhanot | 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1500&color=C9184A&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+Full+Stack+Warrior;%F0%9F%94%A5+Code+Craftsman;%E2%9A%A1+Digital+Ronin;%F0%9F%8E%8C+Always+Sharpening+Skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%95%89%EF%B8%8F+Full+Stack+Yogi;%F0%9F%94%A5+Digital+Rishi;%E2%9A%A1+Code+Tapasvi;%F0%9F%95%B3%EF%B8%8F+Eternal+Learner)
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Samurai"/>
-
-### *"The way of the warrior and the way of learning are one and the same"*
-
-</div>
-
----
-
-## 🏯 The Path of the Code Warrior
-
-<div align="center">
-
-```ascii
-      ⚔️ BUSHIDO CODE FOR DEVELOPERS ⚔️
-      
-    義 - Rectitude: Write honest, clean code
-    勇 - Courage: Tackle complex challenges  
-    仁 - Benevolence: Help fellow developers
-    礼 - Respect: Honor best practices
-    誠 - Honesty: Admit mistakes, learn fast
-    名誉 - Honor: Take pride in craftsmanship
-    忠義 - Loyalty: Commit to continuous growth
+```
+सत्यमेव जयते | Truth Alone Triumphs
 ```
 
 </div>
 
-> *"In the dojo of development, every bug is a teacher, every feature a battle won through discipline and skill. I forge applications with the precision of a katana and the wisdom of ancient masters."*
+---
 
-**🌸 Current Discipline:** Mastering the art of scalable architecture  
-**⛩️ Philosophy:** Elegant solutions through mindful coding  
-**🍃 Vision:** Building digital experiences that serve humanity  
-**🎋 Journey:** From apprentice to sensei, one commit at a time  
+## 🔱 | The Path of Righteous Code
+
+> *"यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।  
+> अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥"*
+> 
+> *"Whenever dharma declines and adharma rises, I manifest myself to restore balance."*
+
+**🪷 Current Sadhana:** Mastering the art of scalable architectures  
+**🕉️ Philosophy:** Code with consciousness, build with purpose  
+**🔥 Mission:** Creating digital solutions that serve humanity  
+**📿 Journey:** From seeker to teacher, one commit at a time  
 
 ---
 
-## ⚔️ Arsenal of a Code Samurai
+## ⚔️ अस्त्र शस्त्र | Arsenal of Knowledge
 
 <div align="center">
 
-### 🗡️ **LANGUAGES** | *言語*
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### **भाषा | Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=336791)
 
-### 🏺 **FRAMEWORKS & LIBRARIES** | *フレームワーク*
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### **ढांचा | Frameworks**
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1a1a1a?style=flat-square&logo=spring-boot&logoColor=6DB33F)
+![React Native](https://img.shields.io/badge/React%20Native-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-1a1a1a?style=flat-square&logo=framer&logoColor=0055FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1a1a1a?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 
-### 🏮 **DATABASES** | *データベース*
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### **डेटाबेस | Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-### ⛩️ **CLOUD & DEVOPS** | *クラウド*
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009639?style=for-the-badge&logo=rest&logoColor=white)
+### **क्लाउड | Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032)
 
-### 🎌 **TOOLS OF THE TRADE** | *道具*
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### **उपकरण | Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=FF6C37)
+![Netlify](https://img.shields.io/badge/Netlify-1a1a1a?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Jira](https://img.shields.io/badge/Jira-1a1a1a?style=flat-square&logo=jira&logoColor=0052CC)
 
 </div>
 
 ---
 
-## 🌸 Words of the Masters
+## 🕉️ श्लोक | Sacred Wisdom
 
 <div align="center">
 
-<img src="https://readme-quotes-api.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default" alt="Quote"/>
+> **"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।"**  
+> *"You have the right to perform actions, but never to the fruits of action."*  
+> — Bhagavad Gita
 
-### *Ancient Wisdom for Modern Warriors*
+> **"अहिंसा परमो धर्मः"**  
+> *"Non-violence is the highest virtue"*  
+> — Mahabharata
 
-> **"The best warrior is the one who never has to draw his sword."**  
-> *— Sun Tzu*
-
-> **"First, master yourself. Then, master your craft."**  
-> *— Samurai Proverb*
-
-> **"Code is like steel - it must be forged in fire to become strong."**  
-> *— Code Samurai Wisdom*
+> **"विद्या ददाति विनयं"**  
+> *"Knowledge gives humility"*  
+> — Sanskrit Proverb
 
 </div>
 
 ---
 
-## 🏯 The Way Forward
+## 🪔 दिनचर्या | Daily Sadhana
 
 <div align="center">
 
 ```
-🌅 MORNING RITUAL
-├── Meditate on code architecture
-├── Sharpen skills through practice  
-└── Commit to continuous improvement
+🌅 प्रातःकाल | Morning
+├── ध्यान | Meditation on architecture
+├── अभ्यास | Practice & skill refinement
+└── संकल्प | Commitment to growth
 
-🌙 EVENING REFLECTION  
-├── Review the day's battles
-├── Learn from each challenge
-└── Prepare for tomorrow's quest
+🌙 सायंकाल | Evening  
+├── समीक्षा | Review the day's learnings
+├── चिंतन | Reflect on challenges
+└── तैयारी | Prepare for tomorrow's path
 ```
 
----
+</div>
 
-### *Connect with the Samurai*
 
-[![Email](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+```
+शान्ति शान्ति शान्तिः
+Peace • Peace • Peace
+```
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=道をありがとう&fontSize=16&fontColor=fff&animation=twinkling"/>
-
-*"Thank you for walking the path with me" - 道をありがとう*
+*"सर्वे भवन्तु सुखिनः | May all beings be happy"*
 
 </div>
