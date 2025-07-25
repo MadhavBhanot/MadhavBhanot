@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/7Tq6E1f.gif" alt="Sanatana Dharma" width="200"/>
+  <img src="https://i.pinimg.com/originals/3a/70/69/3a7069e29a990f1ce8b8f365d140e698.gif" alt="Sanatana Dharma" width="200"/>
 
   <h1>
     <a href="https://github.com/MadhavBhanot">
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/1sC3t2x.gif" width="100%" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1132.gif" width="100%" height="4px" />
 </p>
 
 ### 🛠️ My Tech Stack
@@ -51,7 +51,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,docker" alt="Cloud & DevOps"/>
   </a>
-  <img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"/>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/1sC3t2x.gif" width="100%" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1132.gif" width="100%" height="4px" />
 </p>
 
 <div align="center">
